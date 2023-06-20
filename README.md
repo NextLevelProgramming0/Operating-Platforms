@@ -1,7 +1,7 @@
 # Operating-Platforms
 1) Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-   The client The Gaming Room commissioned our company, Creative Technology Solutions, to create a software design template for the programming of the web based game Draw it or lose it that can be used on multiple operating platforms(Currently only usable on Android).
+   The client The Gaming Room commissioned our company, Creative Technology Solutions, to create a software design template for the programming of the web-based game Draw it or lose it that can be used on multiple operating platforms (Currently only usable on Android).
 
 2) What did you do particularly well in developing this documentation?
 
@@ -9,7 +9,7 @@
 
 3) What about the process of working through a design document did you find helpful when developing the code?
 
-   The software design template provided a strong foundation for explaining where the the project was heading and how you should begin to code it.
+   The software design template provided a strong foundation for explaining where the project was heading and how you should begin to code it.
 
 4) If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
@@ -20,4 +20,4 @@
 
 7) How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-   I did have tasks that needed to be completed on a step by step basis to design this software so I worked on it piece by piece.  I was able to use incremental development to get most of the coding done.  I definitely had to do research in order to complete this project.
+   I did have tasks that needed to be completed on a step-by-step basis to design this software so I worked on it piece by piece.  I was able to use incremental development to get most of the coding done.  I definitely had to do research in order to complete this project.
