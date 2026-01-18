@@ -1,114 +1,91 @@
-Operating Platforms – Software Design Project
-Project Overview
+# Operating Platforms – Software Design Project
 
-This project involved designing a cross-platform software architecture for The Gaming Room, a client seeking to expand their web-based game Draw It or Lose It beyond its original Android-only implementation.
+## Project Overview
 
-The goal was to create a scalable, platform-agnostic design that supports multiple operating systems while maintaining consistent functionality and performance.
+This project focused on designing a **cross-platform software architecture** for *The Gaming Room*, a client seeking to expand their web-based game **Draw It or Lose It** beyond its original Android-only implementation.
 
-Client & Requirements
+The objective was to create a **scalable, maintainable, and platform-agnostic design** that could support multiple operating systems while maintaining consistent functionality and performance.
 
-Client: The Gaming Room
-Application Type: Web-based multiplayer game
-Primary Requirement:
-Design a reusable software architecture that enables the game to operate across multiple platforms (web and mobile), rather than being limited to Android.
+---
 
-Key considerations included:
+## Client & Requirements
 
-Client-server communication
+**Client:** The Gaming Room  
+**Application Type:** Web-based multiplayer game  
 
-Platform compatibility
+**Primary Requirement:**  
+Design a reusable software architecture that allows the game to operate across multiple platforms (web and mobile), rather than being limited to Android.
 
-Scalability
+Key requirements included:
+- Reliable client-server communication  
+- Cross-platform compatibility  
+- Scalability for multiple users  
+- Maintainable and extensible design  
 
-Maintainability
+---
 
+## My Role & Contributions
 
-My Role & Contributions
+- Designed client-server interaction logic  
+- Researched operating platform constraints and architectural best practices  
+- Developed a structured software design document outlining system components  
+- Applied incremental development principles to break the system into manageable parts  
 
-Designed client-server interaction logic for the application
+---
 
-Researched platform constraints and best practices for cross-platform deployment
+## Design Process & Technical Approach
 
-Created a structured software design document outlining system components and responsibilities
-
-Applied incremental development principles to break the system into manageable parts
-
-
-Design Process & Technical Approach
-
-I approached the design using a step-by-step, modular strategy, focusing on clear separation of concerns between system components.
+I approached the design using a **modular, step-by-step strategy**, focusing on clear separation of concerns between system components.
 
 The software design document helped:
+- Define system boundaries early  
+- Clarify responsibilities between the client and server  
+- Reduce ambiguity before implementation  
+- Provide a roadmap for future development  
 
-Define system boundaries early
+Research was essential in understanding platform limitations and selecting appropriate design patterns.
 
-Clarify responsibilities between client and server
+---
 
-Reduce ambiguity before implementation
+## User-Centered Design Considerations
 
-Provide a roadmap for future development
+User needs were incorporated by carefully analyzing project requirements and designing the system to support consistent user experiences across platforms.
 
-Research played a key role in selecting appropriate architectural patterns and understanding platform limitations.
+Considering user needs is critical because developer assumptions may differ from real-world usage. User-focused design improves usability, performance, and adoption.
 
+---
 
-User-Centered Design Considerations
-
-User needs were interpreted by:
-
-Carefully analyzing project requirements
-
-Designing the system to be intuitive, scalable, and responsive
-
-Ensuring consistent user experience across platforms
-
-Considering user needs is critical because developers’ assumptions often differ from real-world usage patterns. Designing with users in mind improves usability, performance, and adoption.
-
-
-Lessons Learned & Future Improvements
+## Lessons Learned & Future Improvements
 
 Through this project, I strengthened my understanding of:
-
-Software architecture planning
-
-Cross-platform considerations
-
-Client-server design
-
-The value of thorough documentation before implementation
-
+- Software architecture planning  
+- Cross-platform application design  
+- Client-server communication  
+- The importance of documentation before implementation  
 
 In future projects, I would focus on:
+- Producing design documentation earlier  
+- Refining architecture diagrams  
+- Improving efficiency through reusable design patterns  
 
-Producing design documentation earlier in the development cycle
+---
 
-Refining diagrams and architecture visuals
+## Skills Demonstrated
 
-Further improving efficiency through reusable design patterns
+- Software Architecture Design  
+- Client-Server Communication  
+- Incremental Development  
+- Technical Research  
+- Cross-Platform Design Principles  
 
+---
 
-Skills Demonstrated
+## Professional Relevance
 
-Software Architecture Design
+This project demonstrates my ability to translate requirements into a structured technical design, think beyond a single platform, and communicate design decisions clearly. These skills directly apply to junior full stack and backend development roles.
 
-Client-Server Communication
+---
 
-Incremental Development
+## License
 
-Technical Research
-
-Cross-Platform Design Principles
-
-
-Why This Matters Professionally
-
-This project demonstrates my ability to:
-
-Translate requirements into a structured technical design
-
-Think beyond a single platform
-
-Communicate design decisions clearly
-
-Approach development with scalability and maintainability in mind
-
-These skills directly apply to junior full stack and backend development roles.
+This project is for educational and professional portfolio use.
